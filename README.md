@@ -8,6 +8,6 @@ Notebooks marked using [RISE](https://rise.readthedocs.io/) Jypiter plugin.
 
 ## Recommended reading
 
-* https://www.slitherintopython.com/
-* https://docs.python-guide.org/intro/learning/
-
+* [Learning Python: free books](https://docs.python-guide.org/intro/learning/)
+* [Erle Robotics Python Gitbook](https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/)
+* [Slither into Python](https://www.slitherintopython.com/)
